@@ -1,0 +1,14 @@
+# Ignore build files and output
+bin/
+obj/
+*.dll
+*.pdb
+
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment files
+*.env
+appsettings.Development.json
